@@ -1,9 +1,5 @@
-# Logs
+# logs
 app/logs/*.log
-# pycache
-app/__pycache__/*.pyc
-# Folders
-venv
 # Secrets
 app/secrets/.env
 app/secrets/*.json
