@@ -1,0 +1,18 @@
+# Logs
+app/logs/*.log
+# pycache
+app/__pycache__/*.pyc
+# Folders
+venv
+# Secrets
+app/secrets/.env
+app/secrets/*.json
+# assets
+app/assets/*.ipynb
+app/assets/*.txt
+app/assets/*.json
+assets/*.excalidraw
+# Terraform
+terraform/terraform-manifest/terraform.tfvars
+terraform/terraform-manifest/*.tfstate
+terraform/terraform-manifest/*.tfstate.backup
