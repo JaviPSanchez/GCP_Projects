@@ -6,7 +6,7 @@ app/secrets/*.json
 # assets
 app/assets/*.ipynb
 app/assets/*.txt
-app/assets/*.json
+# app/assets/*.json
 assets/*.excalidraw
 # Terraform
 terraform/terraform-manifest/terraform.tfvars
